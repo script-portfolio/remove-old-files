@@ -5,5 +5,5 @@
 
 # See task description:
 
-![alt tag](https://raw.github.com/script-portfolio/remove-old-files/task-description.png)
+![alt tag](https://raw.githubusercontent.com/script-portfolio/remove-old-files/master/task-description.png)
 

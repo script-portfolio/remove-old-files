@@ -625,12 +625,6 @@ remove-old-files.sh -d path -D days | grep -P '^\s+\d' | sort -k 5,6
 
 Note: When size is entered as 'Kb' (in square brackets ): it is the int part of the origin size divided on 1024.
 
-=head1 SEE ALSO
-
-Ticket #xxxx
-
-=head1 AUTHOR
-
 Vladyslav V. Gula <vladyslav.gula@gmail.com>
 
 =cut
